@@ -1,3 +1,5 @@
+Recreate a single page vanilla javascript library app with React.js as part of [The Odin Project's Curriculum}(https://www.theodinproject.com/courses/javascript/lessons/frameworks?ref=lnav}. Original project [here](https://github.com/jdonahue135/javascriptLibrary).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
